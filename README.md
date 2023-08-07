@@ -8,4 +8,11 @@ I have defined 2 entities
 1st Categories 
 2nd Product
 
+Step 3: Followed Architecture
+Model
+Controller
+Service
+Reposetory
+Entity
+
 
